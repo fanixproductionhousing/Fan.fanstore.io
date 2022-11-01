@@ -1,0 +1,1770 @@
+@font-face {
+    font-family: 'Gameria';
+    src: url(font/GAMERIA.ttf);
+}
+
+@font-face {
+    font-family: 'mono';
+    src: url(font/MONOCOQUE.ttf);
+}
+
+@font-face {
+    font-family: 'nofex';
+    src: url(font/Nofex.otf);
+}
+
+@font-face {
+    font-family: 'pantonblack';
+    src: url(font/Panton-BlackCaps.otf);
+}
+
+@font-face {
+    font-family: 'pantonlightcap';
+    src: url(font/Panton-LightCaps.otf);
+}
+
+
+.fan{
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: -50px;
+    right: 335px;
+    left: 40px;
+    font-size: 170px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: gold;
+}
+
+.img{
+    size-adjust: 100px;
+    border-radius: 10px;
+    height: 300px;
+    position: absolute;
+    bottom: -300px;
+    left: 105px;
+    border-style: groove;
+    border-color: yellow;
+
+
+}
+
+.butt{
+    position: absolute;
+    bottom: -300px;
+    left: 105px;
+    height: 300px;
+    width: 600px;
+    opacity: 0;
+    transition: ease-in .2s;
+
+}
+
+.btn{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    bottom: -370px;
+    left: 105px;
+    width: 605px;
+    height: 50px;
+    border-color: yellow;
+    background-color: black;
+    color: white;
+}
+
+.abt{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    left: 15px;
+    height: 60px;
+    width: 100px;
+    top: 23px;
+    border-style: groove;
+    color: white;
+    border-color: yellow;
+    background-color: black;
+
+}
+
+.sub{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    left: 150px;
+    height: 60px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    top: 24px;
+    border-style: groove;
+    border-color: yellow;
+
+}
+
+.imga{
+    position: absolute;
+    bottom: -800px;
+    left: 105px;
+    height: 300px;
+    width: 600px;  
+    border-radius: 10px;
+    border-style: groove;
+    border-color: yellow;   
+ 
+    
+}
+
+.btnn{
+    position: absolute;
+    bottom: -800px;
+    left: 105px;
+    opacity: 0;
+    height: 300px;
+    width: 600px;
+}
+
+.modu{
+    position: absolute;
+    bottom: -870px;
+    left: 105px;
+    height: 50px;
+    width: 605px;
+    background-color: black;
+    border-color: yellow;
+    color: white;
+}
+
+.imgo{
+    position: absolute;
+    bottom: -1270px;
+    left: 105px;
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: yellow;
+}
+
+.pc{
+    position: absolute;
+    bottom: -1340px;
+    left: 105px;
+    height: 50px;
+    width: 605px;
+    background-color: black;
+    border-color: yellow;
+    color: white;
+}
+
+.imgi{
+    position: absolute;
+    left: 712px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border-style: groove;
+    border-color: yellow;
+    bottom: px;
+    top: 40px;
+
+}
+
+.oria{
+    position: absolute;
+    left: 443px;
+    top: 2px;
+    font-family: 'nofex';
+    font-size: 47px;
+    -webkit-text-stroke: 0.3px;
+    -webkit-text-stroke-color: yellow;
+}
+
+.search{
+    position: absolute;
+    left: 1050px;
+    top: 47px;
+    width: 200px;
+
+}
+
+.searchbutton{
+    position: absolute;
+    left: 179px;
+    border-style: groove;
+    border-color: yellow;
+    background-color: black;
+    color: white
+    ;
+}
+
+.mod{
+    position: absolute;
+    left: 443px;
+    top: 2px;
+    font-family: 'nofex';
+    font-size: 47px;
+    -webkit-text-stroke: 0.3px;
+    -webkit-text-stroke-color: yellow;
+}
+
+.mod2{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 110px;
+}
+
+.modsub2{
+    position: absolute;
+    top: 220px;
+    left: 110px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame2{
+    position: absolute;
+    top: 328px;
+    left: 107px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+}
+
+.mod3{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 250px;
+}
+
+.modsub3{
+    position: absolute;
+    top: 220px;
+    left: 250px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame3{
+    position: absolute;
+    top: 328px;
+    left: 250px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 104px;
+}
+
+.mod4{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 390px;
+}
+
+.modsub4{
+    position: absolute;
+    top: 220px;
+    left: 390px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame4{
+    position: absolute;
+    top: 328px;
+    left: 390px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 104px;
+}
+
+.mod5{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 530px;
+}
+
+.modsub5{
+    position: absolute;
+    top: 220px;
+    left: 530px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame5{
+    position: absolute;
+    top: 328px;
+    left: 530px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 104px;
+}
+
+.mod6{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 670px;
+}
+
+.modsub6{
+    position: absolute;
+    top: 220px;
+    left: 670px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame6{
+    position: absolute;
+    top: 328px;
+    left: 670px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 104px;
+}
+
+.mod7{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 810px;
+}
+
+.modsub7{
+    position: absolute;
+    top: 220px;
+    left: 810px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame7{
+    position: absolute;
+    top: 328px;
+    left: 810px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 104px;
+}
+
+.mod8{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 950px;
+}
+
+.modsub8{
+    position: absolute;
+    top: 220px;
+    left: 950px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame8{
+    position: absolute;
+    top: 328px;
+    left: 948px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+.mod9{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 1090px;
+}
+
+.modsub9{
+    position: absolute;
+    top: 220px;
+    left: 1090px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame9{
+    position: absolute;
+    top: 328px;
+    left: 1090px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.mod10{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 110px;
+}
+
+.modsub10{
+    position: absolute;
+    top: 380px;
+    left: 110px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame10{
+    position: absolute;
+    top: 490px;
+    left: 108px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.mod11{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 250px;
+}
+
+.modsub11{
+    position: absolute;
+    top: 380px;
+    left: 250px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame11{
+    position: absolute;
+    top: 490px;
+    left: 248px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.mod12{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 390px;
+}
+
+.modsub12{
+    position: absolute;
+    top: 380px;
+    left: 390px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame12{
+    position: absolute;
+    top: 490px;
+    left: 388px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.mod13{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 530px;
+}
+
+.modsub13{
+    position: absolute;
+    top: 380px;
+    left: 530px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame13{
+    position: absolute;
+    top: 490px;
+    left: 528px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.mod14{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 670px;
+}
+
+.modsub14{
+    position: absolute;
+    top: 380px;
+    left: 670px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame14{
+    position: absolute;
+    top: 490px;
+    left: 668px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.mod15{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 810px;
+}
+
+.modsub15{
+    position: absolute;
+    top: 380px;
+    left: 810px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame15{
+    position: absolute;
+    top: 490px;
+    left: 808px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.mod16{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 950px;
+}
+
+.modsub16{
+    position: absolute;
+    top: 380px;
+    left: 950px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame16{
+    position: absolute;
+    top: 490px;
+    left: 948px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.mod17{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 1090px;
+}
+
+.modsub17{
+    position: absolute;
+    top: 380px;
+    left: 1090px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame17{
+    position: absolute;
+    top: 490px;
+    left: 1088px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 108px;
+}
+
+
+.modp2{
+    position: absolute;
+    top: 540px;
+    left: 683px;
+    height: 35px;
+    width: 70px;
+    border-style: groove;
+    border-color: yellow;
+    background-color: black;
+    color: white;
+}
+
+.prep2{
+    position: absolute;
+    top: 540px;
+    left: 570px;
+    height: 35px;
+    width: 70px;
+    border-style: groove;
+    border-color: yellow;
+    background-color: black;
+    color: white;
+}
+
+
+.mod18{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 110px;
+}
+
+.modsub18{
+    position: absolute;
+    top: 220px;
+    left: 110px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame18{
+    position: absolute;
+    top: 328px;
+    left: 108px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+.mod19{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 250px;
+}
+
+.modsub19{
+    position: absolute;
+    top: 220px;
+    left: 250px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame19{
+    position: absolute;
+    top: 328px;
+    left: 248px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+.mod20{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 390px;
+}
+
+.modsub20{
+    position: absolute;
+    top: 220px;
+    left: 390px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame20{
+    position: absolute;
+    top: 328px;
+    left: 388px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+.mod21{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 530px;
+}
+
+.modsub21{
+    position: absolute;
+    top: 220px;
+    left: 530px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame21{
+    position: absolute;
+    top: 328px;
+    left: 528px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+.mod22{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 670px;
+}
+
+.modsub22{
+    position: absolute;
+    top: 220px;
+    left: 670px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame22{
+    position: absolute;
+    top: 328px;
+    left: 668px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+.mod23{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 810px;
+}
+
+.modsub23{
+    position: absolute;
+    top: 220px;
+    left: 810px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame23{
+    position: absolute;
+    top: 328px;
+    left: 808px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+
+.mod24{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 950px;
+}
+
+.modsub24{
+    position: absolute;
+    top: 220px;
+    left: 950px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame24{
+    position: absolute;
+    top: 328px;
+    left: 948px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod25{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 1090px;
+}
+
+.modsub25{
+    position: absolute;
+    top: 220px;
+    left: 1090px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame25{
+    position: absolute;
+    top: 328px;
+    left: 1088px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod26{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 110px;
+}
+
+.modsub26{
+    position: absolute;
+    top: 380px;
+    left: 110px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame26{
+    position: absolute;
+    top: 490px;
+    left: 108px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod27{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 250px;
+}
+
+.modsub27{
+    position: absolute;
+    top: 380px;
+    left: 250px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame27{
+    position: absolute;
+    top: 490px;
+    left: 248px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+.mod28{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 390px;
+}
+
+.modsub28{
+    position: absolute;
+    top: 380px;
+    left: 390px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame28{
+    position: absolute;
+    top: 490px;
+    left: 388px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod29{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 530px;
+}
+
+.modsub29{
+    position: absolute;
+    top: 380px;
+    left: 530px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame29{
+    position: absolute;
+    top: 490px;
+    left: 528px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+.mod30{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 670px;
+}
+
+.modsub30{
+    position: absolute;
+    top: 380px;
+    left: 670px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame30{
+    position: absolute;
+    top: 490px;
+    left: 668px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod31{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 810px;
+}
+
+.modsub31{
+    position: absolute;
+    top: 380px;
+    left: 810px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame31{
+    position: absolute;
+    top: 490px;
+    left: 808px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod32{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 950px;
+}
+
+.modsub32{
+    position: absolute;
+    top: 380px;
+    left: 950px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame32{
+    position: absolute;
+    top: 490px;
+    left: 948px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod33{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 1090px;
+}
+
+.modsub33{
+    position: absolute;
+    top: 380px;
+    left: 1090px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame33{
+    position: absolute;
+    top: 490px;
+    left: 1088px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+.mod34{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 110px;
+}
+
+.modsub34{
+    position: absolute;
+    top: 220px;
+    left: 110px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame34{
+    position: absolute;
+    top: 328px;
+    left: 108px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+.mod35{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 250px;
+}
+
+.modsub35{
+    position: absolute;
+    top: 220px;
+    left: 250px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame35{
+    position: absolute;
+    top: 328px;
+    left: 248px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+.mod36{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 390px;
+}
+
+.modsub36{
+    position: absolute;
+    top: 220px;
+    left: 390px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame36{
+    position: absolute;
+    top: 328px;
+    left: 388px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+.mod37{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 530px;
+}
+
+.modsub37{
+    position: absolute;
+    top: 220px;
+    left: 530px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame37{
+    position: absolute;
+    top: 328px;
+    left: 528px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+.mod38{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 670px;
+}
+
+.modsub38{
+    position: absolute;
+    top: 220px;
+    left: 670px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame38{
+    position: absolute;
+    top: 328px;
+    left: 668px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+.mod39{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 810px;
+}
+
+.modsub39{
+    position: absolute;
+    top: 220px;
+    left: 810px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame39{
+    position: absolute;
+    top: 328px;
+    left: 808px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 107px;
+}
+
+
+
+.mod40{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 950px;
+}
+
+.modsub40{
+    position: absolute;
+    top: 220px;
+    left: 950px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame40{
+    position: absolute;
+    top: 328px;
+    left: 948px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod41{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 1090px;
+}
+
+.modsub41{
+    position: absolute;
+    top: 220px;
+    left: 1090px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame41{
+    position: absolute;
+    top: 328px;
+    left: 1088px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod42{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 110px;
+}
+
+.modsub42{
+    position: absolute;
+    top: 380px;
+    left: 110px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame42{
+    position: absolute;
+    top: 490px;
+    left: 108px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod43{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 250px;
+}
+
+.modsub43{
+    position: absolute;
+    top: 380px;
+    left: 250px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame43{
+    position: absolute;
+    top: 490px;
+    left: 248px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+.mod44{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 390px;
+}
+
+.modsub44{
+    position: absolute;
+    top: 380px;
+    left: 390px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame44{
+    position: absolute;
+    top: 490px;
+    left: 388px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod45{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 530px;
+}
+
+.modsub45{
+    position: absolute;
+    top: 380px;
+    left: 530px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame45{
+    position: absolute;
+    top: 490px;
+    left: 528px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+.mod46{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 670px;
+}
+
+.modsub46{
+    position: absolute;
+    top: 380px;
+    left: 670px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame46{
+    position: absolute;
+    top: 490px;
+    left: 668px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod47{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 810px;
+}
+
+.modsub47{
+    position: absolute;
+    top: 380px;
+    left: 810px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame47{
+    position: absolute;
+    top: 490px;
+    left: 808px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod48{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 950px;
+}
+
+.modsub48{
+    position: absolute;
+    top: 380px;
+    left: 950px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgamees48{
+    position: absolute;
+    top: 600px;
+    left: 1020px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+.mod49{
+    position: absolute;
+    width: 100px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 380px;
+    left: 1090px;
+}
+
+.modsub49{
+    position: absolute;
+    top: 380px;
+    left: 1090px;
+    height: 105px;
+    width: 105px;
+    opacity: 0;
+
+}
+
+.modgame49{
+    position: absolute;
+    top: 490px;
+    left: 1088px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 109px;
+}
+
+
+
+
+.heading{
+    position: absolute;
+    left: 488px;
+    font-size: 90px;
+    top: 1px;
+    font-family: 'nofex';
+    -webkit-text-stroke: 0.8px;
+    -webkit-text-stroke-color: yellow;
+}
+
+.para1{
+    position: absolute;
+    color: white;
+    left: 540px;
+}
+
+.para2{
+    position: absolute;
+    color: white;
+    left: 300px;
+    top: 200px;
+}
+
+
+.heading2{
+    position: absolute;
+    color: black;
+    -webkit-text-stroke: 0.8px;
+    -webkit-text-stroke-color: yellow;
+    font-size: 65px;
+    font-family: nofex;
+    left: 440px;
+    top: 290px;
+
+}
+
+
+.para3{
+    position: absolute;
+    color: white;
+    left: 300px;
+    top: 440px;
+}
+
+.para4{
+    position: absolute;
+    color: white;
+    left: 240px;
+    top: 460px;
+}
+
+
+.searchbar{
+    position: absolute;
+    left: 1075px;
+    top: 30px;
+}
