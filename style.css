@@ -28,7 +28,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom: 140px;
+    bottom: 230px;
     right: 335px;
     left: 40px;
     font-size: 170px;
@@ -42,7 +42,7 @@
     border-radius: 10px;
     height: 300px;
     position: absolute;
-    bottom: -30px;
+    bottom: 60px;
     left: 105px;
     border-style: groove;
     border-color: yellow;
@@ -52,7 +52,7 @@
 
 .butt{
     position: absolute;
-    bottom: -130px;
+    bottom: 60px;
     left: 105px;
     height: 300px;
     width: 600px;
@@ -65,7 +65,7 @@
     position: absolute;
     align-items: center;
     justify-content: center;
-    bottom: -90px;
+    bottom: 00px;
     left: 105px;
     width: 605px;
     height: 50px;
@@ -106,7 +106,7 @@
 
 .imga{
     position: absolute;
-    bottom: -420px;
+    bottom: -340px;
     left: 105px;
     height: 300px;
     width: 600px;  
@@ -119,7 +119,7 @@
 
 .btnn{
     position: absolute;
-    bottom: -420px;
+    bottom: -340px;
     left: 105px;
     opacity: 0;
     height: 300px;
@@ -128,7 +128,7 @@
 
 .modu{
     position: absolute;
-    bottom: -480px;
+    bottom: -400px;
     left: 105px;
     height: 50px;
     width: 605px;
@@ -139,7 +139,7 @@
 
 .imgo{
     position: absolute;
-    bottom: -830px;
+    bottom: -740px;
     left: 105px;
     height: 300px;
     width: 600px;
@@ -150,7 +150,7 @@
 
 .pc{
     position: absolute;
-    bottom: -890px;
+    bottom: -800px;
     left: 105px;
     height: 50px;
     width: 605px;
@@ -703,7 +703,7 @@
 .modp2{
     position: absolute;
     top: 1700px;
-    left: 290px;
+    left: 500px;
     height: 80px;
     width: 160px;
     border-style: groove;
@@ -714,10 +714,10 @@
 
 .prep2{
     position: absolute;
-    top: 540px;
-    left: 570px;
-    height: 35px;
-    width: 70px;
+    top: 1700px;
+    left: 290px;
+    height: 80px;
+    width: 160px;
     border-style: groove;
     border-color: yellow;
     background-color: black;
@@ -850,618 +850,618 @@
 
 .mod22{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
     top: 220px;
-    left: 670px;
+    left: 70px;
 }
 
 .modsub22{
     position: absolute;
     top: 220px;
-    left: 670px;
-    height: 105px;
-    width: 105px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame22{
     position: absolute;
-    top: 328px;
-    left: 668px;
+    top: 400px;
+    left: 65px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 107px;
+    width: 178px;
 }
 
 
 .mod23{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
     top: 220px;
-    left: 810px;
+    left: 320px;
 }
 
 .modsub23{
     position: absolute;
     top: 220px;
-    left: 810px;
-    height: 105px;
-    width: 105px;
+    left: 320px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame23{
     position: absolute;
-    top: 328px;
-    left: 808px;
+    top: 405px;
+    left: 320px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 107px;
+    width: 170px;
 }
 
 
 
 .mod24{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
     top: 220px;
-    left: 950px;
+    left: 570px;
 }
 
 .modsub24{
     position: absolute;
     top: 220px;
-    left: 950px;
-    height: 105px;
-    width: 105px;
+    left: 570px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame24{
     position: absolute;
-    top: 328px;
-    left: 948px;
+    top: 400px;
+    left: 570px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
 .mod25{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
     top: 220px;
-    left: 1090px;
+    left: 820px;
 }
 
 .modsub25{
     position: absolute;
     top: 220px;
-    left: 1090px;
-    height: 105px;
-    width: 105px;
+    left: 820px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame25{
     position: absolute;
-    top: 328px;
-    left: 1088px;
+    top: 400px;
+    left: 820px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
 .mod26{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 380px;
-    left: 110px;
+    top: 500px;
+    left: 70px;
 }
 
 .modsub26{
     position: absolute;
-    top: 380px;
-    left: 110px;
-    height: 105px;
-    width: 105px;
+    top: 500px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame26{
     position: absolute;
-    top: 490px;
-    left: 108px;
+    top: 680px;
+    left: 70px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
 .mod27{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 380px;
-    left: 250px;
+    top: 500px;
+    left: 320px;
 }
 
 .modsub27{
     position: absolute;
-    top: 380px;
-    left: 250px;
-    height: 105px;
-    width: 105px;
+    top: 500px;
+    left: 320px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame27{
     position: absolute;
-    top: 490px;
-    left: 248px;
+    top: 680px;
+    left: 320px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 .mod28{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 380px;
-    left: 390px;
+    top: 500px;
+    left: 570px;
 }
 
 .modsub28{
     position: absolute;
-    top: 380px;
-    left: 390px;
-    height: 105px;
-    width: 105px;
+    top: 500px;
+    left: 570px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame28{
     position: absolute;
-    top: 490px;
-    left: 388px;
+    top: 680px;
+    left: 570px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
 .mod29{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 380px;
-    left: 530px;
+    top: 500px;
+    left: 820px;
 }
 
 .modsub29{
     position: absolute;
-    top: 380px;
-    left: 530px;
-    height: 105px;
-    width: 105px;
+    top: 500px;
+    left: 820px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame29{
     position: absolute;
-    top: 490px;
-    left: 528px;
+    top: 685px;
+    left: 820px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 .mod30{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 380px;
-    left: 670px;
+    top: 800px;
+    left: 70px;
 }
 
 .modsub30{
     position: absolute;
-    top: 380px;
-    left: 670px;
-    height: 105px;
-    width: 105px;
+    top: 800px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame30{
     position: absolute;
-    top: 490px;
-    left: 668px;
+    top: 980px;
+    left: 70px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
 .mod31{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 380px;
-    left: 810px;
+    top: 800px;
+    left: 320px;
 }
 
 .modsub31{
     position: absolute;
-    top: 380px;
-    left: 810px;
-    height: 105px;
-    width: 105px;
+    top: 800px;
+    left: 320px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame31{
     position: absolute;
-    top: 490px;
-    left: 808px;
+    top: 980px;
+    left: 320px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
 .mod32{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 380px;
-    left: 950px;
+    top: 800px;
+    left: 570px;
 }
 
 .modsub32{
     position: absolute;
-    top: 380px;
-    left: 950px;
-    height: 105px;
-    width: 105px;
+    top: 800px;
+    left: 570px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame32{
     position: absolute;
-    top: 490px;
-    left: 948px;
+    top: 980px;
+    left: 570px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
 .mod33{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 380px;
-    left: 1090px;
+    top: 800px;
+    left: 820px;
 }
 
 .modsub33{
     position: absolute;
-    top: 380px;
-    left: 1090px;
-    height: 105px;
-    width: 105px;
+    top: 800px;
+    left: 820px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame33{
     position: absolute;
-    top: 490px;
-    left: 1088px;
+    top: 980px;
+    left: 820px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 .mod34{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 220px;
-    left: 110px;
+    top: 1100px;
+    left: 70px;
 }
 
 .modsub34{
     position: absolute;
-    top: 220px;
-    left: 110px;
-    height: 105px;
-    width: 105px;
+    top: 1100px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame34{
     position: absolute;
-    top: 328px;
-    left: 108px;
+    top: 1280px;
+    left: 70px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 107px;
+    width: 170px;
 }
 
 .mod35{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 220px;
-    left: 250px;
+    top: 1100px;
+    left: 320px;
 }
 
 .modsub35{
     position: absolute;
-    top: 220px;
-    left: 250px;
-    height: 105px;
-    width: 105px;
+    top: 1100px;
+    left: 320px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame35{
     position: absolute;
-    top: 328px;
-    left: 248px;
+    top: 1280px;
+    left: 320px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 107px;
+    width: 170px;
 }
 
 
 .mod36{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 220px;
-    left: 390px;
+    top: 1100px;
+    left: 570px;
 }
 
 .modsub36{
     position: absolute;
-    top: 220px;
-    left: 390px;
-    height: 105px;
-    width: 105px;
+    top: 1100px;
+    left: 570px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame36{
     position: absolute;
-    top: 328px;
-    left: 388px;
+    top: 1280px;
+    left: 570px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 107px;
+    width: 170px;
 }
 
 
 .mod37{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 220px;
-    left: 530px;
+    top: 1100px;
+    left: 820px;
 }
 
 .modsub37{
     position: absolute;
-    top: 220px;
-    left: 530px;
-    height: 105px;
-    width: 105px;
+    top: 1100px;
+    left: 820px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame37{
     position: absolute;
-    top: 328px;
-    left: 528px;
+    top: 1280px;
+    left: 820px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 107px;
+    width: 170px;
 }
 
 .mod38{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 220px;
-    left: 670px;
+    top: 1400px;
+    left: 70px;
 }
 
 .modsub38{
     position: absolute;
-    top: 220px;
-    left: 670px;
-    height: 105px;
-    width: 105px;
+    top: 1400px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame38{
     position: absolute;
-    top: 328px;
-    left: 668px;
+    top: 1580px;
+    left: 70px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 107px;
+    width: 170px;
 }
 
 
 .mod39{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 220px;
-    left: 810px;
+    top: 1400px;
+    left: 320px;
 }
 
 .modsub39{
     position: absolute;
-    top: 220px;
-    left: 810px;
-    height: 105px;
-    width: 105px;
+    top: 1400px;
+    left: 320px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame39{
     position: absolute;
-    top: 328px;
-    left: 808px;
+    top: 1580px;
+    left: 320px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 107px;
+    width: 170px;
 }
 
 
 
 .mod40{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 220px;
-    left: 950px;
+    top: 1400px;
+    left: 570px;
 }
 
 .modsub40{
     position: absolute;
-    top: 220px;
-    left: 950px;
-    height: 105px;
-    width: 105px;
+    top: 1400px;
+    left: 570px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame40{
     position: absolute;
-    top: 328px;
-    left: 948px;
+    top: 1580px;
+    left: 570px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
 .mod41{
     position: absolute;
-    width: 100px;
+    width: 170px;
     border: 2px solid yellow;
     border-radius: 10px;
-    top: 220px;
-    left: 1090px;
+    top: 1400px;
+    left: 820px;
 }
 
 .modsub41{
     position: absolute;
-    top: 220px;
-    left: 1090px;
-    height: 105px;
-    width: 105px;
+    top: 1400px;
+    left: 820px;
+    height: 170px;
+    width: 170px;
     opacity: 0;
 
 }
 
 .modgame41{
     position: absolute;
-    top: 328px;
-    left: 1088px;
+    top: 1580px;
+    left: 820px;
     border-style: groove;
     border-color: yellow;
     color: white;
     background-color: black;
-    width: 109px;
+    width: 170px;
 }
 
 
