@@ -28,7 +28,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom: 230px;
+    bottom: 300px;
     right: 335px;
     left: 40px;
     font-size: 170px;
@@ -177,7 +177,7 @@
     left: 443px;
     top: 2px;
     font-family: 'nofex';
-    font-size: 47px;
+    font-size: 70px;
     -webkit-text-stroke: 0.3px;
     -webkit-text-stroke-color: yellow;
 }
@@ -199,6 +199,13 @@
     color: white
     ;
 }
+
+
+
+                       /*  MOD GAME STYLING
+                           Page 1 start */
+
+
 
 .mod{
     position: absolute;
@@ -848,6 +855,8 @@
     width: 170px;
 }
 
+                  /*  mod game page 2 start */ 
+
 .mod22{
     position: absolute;
     width: 170px;
@@ -1464,6 +1473,7 @@
     width: 170px;
 }
 
+              /*  Mod game page 3 start  */
 
 .mod42{
     position: absolute;
@@ -1710,8 +1720,7 @@
     width: 109px;
 }
 
-
-
+          /*  Mod game page 3 end */
 
 .heading{
     position: absolute;
@@ -1770,3 +1779,680 @@
     left: 1075px;
     top: 30px;
 }
+
+
+
+               /* styling original games Page 1 start */
+
+
+.oria{
+    position: absolute;
+    left: 320px;
+    top: 2px;
+    font-family: 'nofex';
+    font-size: 70px;
+    -webkit-text-stroke: 0.3px;
+    -webkit-text-stroke-color: yellow;
+}
+
+
+
+.ori1{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 70px;
+
+}
+
+.orisub1{
+    position: absolute;
+    top: 220px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame1{
+    position: absolute;
+    top: 400px;
+    left: 65px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+
+.ori2{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 290px;
+
+}
+
+.orisub2{
+    position: absolute;
+    top: 220px;
+    left: 290px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame2{
+    position: absolute;
+    top: 400px;
+    left: 290px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+
+.ori3{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 500px;
+
+}
+
+.orisub3{
+    position: absolute;
+    top: 220px;
+    left: 500px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame3{
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+
+.ori4{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 220px;
+    left: 740px;
+
+}
+
+.orisub4{
+    position: absolute;
+    top: 220px;
+    left: 740px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame4{
+    position: absolute;
+    top: 400px;
+    left: 740px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+
+.ori5{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 520px;
+    left: 70px;
+
+}
+
+.orisub5{
+    position: absolute;
+    top: 520px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame5{
+    position: absolute;
+    top: 710px;
+    left: 65px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori6{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 520px;
+    left: 290px;
+
+}
+
+.orisub6{
+    position: absolute;
+    top: 520px;
+    left: 290px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame6{
+    position: absolute;
+    top: 710px;
+    left: 290px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori7{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 520px;
+    left: 500px;
+
+}
+
+.orisub7{
+    position: absolute;
+    top: 520px;
+    left: 500px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame7{
+    position: absolute;
+    top: 710px;
+    left: 500px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori8{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 520px;
+    left: 720px;
+
+}
+
+.orisub8{
+    position: absolute;
+    top: 520px;
+    left: 720px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame8{
+    position: absolute;
+    top: 710px;
+    left: 720px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+
+.ori9{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 520px;
+    left: 70px;
+
+}
+
+.orisub9{
+    position: absolute;
+    top: 520px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame9{
+    position: absolute;
+    top: 710px;
+    left: 65px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori10{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 820px;
+    left: 70px;
+
+}
+
+.orisub10{
+    position: absolute;
+    top: 820px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame10{
+    position: absolute;
+    top: 1000px;
+    left: 65px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori11{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 820px;
+    left: 290px;
+
+}
+
+.orisub11{
+    position: absolute;
+    top: 820px;
+    left: 290px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame11{
+    position: absolute;
+    top: 1000px;
+    left: 290px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+
+.ori12{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 820px;
+    left: 500px;
+
+}
+
+.orisub12{
+    position: absolute;
+    top: 820px;
+    left: 500px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame12{
+    position: absolute;
+    top: 1000px;
+    left: 500px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori13{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 820px;
+    left: 740px;
+
+}
+
+.orisub13{
+    position: absolute;
+    top: 820px;
+    left: 740px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame13{
+    position: absolute;
+    top: 1000px;
+    left: 740px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori14{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 1100px;
+    left: 70px;
+
+}
+
+.orisub14{
+    position: absolute;
+    top: 1100px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame14{
+    position: absolute;
+    top: 1290px;
+    left: 70px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori15{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 1100px;
+    left: 290px;
+
+}
+
+.orisub15{
+    position: absolute;
+    top: 1100px;
+    left: 290px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame15{
+    position: absolute;
+    top: 1290px;
+    left: 290px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori16{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 1100px;
+    left: 500px;
+
+}
+
+.orisub16{
+    position: absolute;
+    top: 1100px;
+    left: 500px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame16{
+    position: absolute;
+    top: 1290px;
+    left: 500px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori17{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 1100px;
+    left: 740px;
+
+}
+
+.orisub17{
+    position: absolute;
+    top: 1100px;
+    left: 740px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame17{
+    position: absolute;
+    top: 1290px;
+    left: 740px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori18{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 1400px;
+    left: 70px;
+
+}
+
+.orisub18{
+    position: absolute;
+    top: 1400px;
+    left: 70px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame18{
+    position: absolute;
+    top: 1590px;
+    left: 70px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori19{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 1400px;
+    left: 290px;
+
+}
+
+.orisub19{
+    position: absolute;
+    top: 1400px;
+    left: 290px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame19{
+    position: absolute;
+    top: 1590px;
+    left: 290px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+.ori20{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 1400px;
+    left: 500px;
+
+}
+
+.orisub20{
+    position: absolute;
+    top: 1400px;
+    left: 500px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame20{
+    position: absolute;
+    top: 1590px;
+    left: 500px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+
+.ori21{
+    position: absolute;
+    width: 170px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    top: 1400px;
+    left: 740px;
+
+}
+
+.orisub21{
+    position: absolute;
+    top: 1400px;
+    left: 740px;
+    height: 170px;
+    width: 170px;
+    opacity: 0;
+
+}
+
+.origame21{
+    position: absolute;
+    top: 1590px;
+    left: 740px;
+    border-style: groove;
+    border-color: yellow;
+    color: white;
+    background-color: black;
+    width: 175px;
+}
+
+
